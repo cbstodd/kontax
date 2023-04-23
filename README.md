@@ -1,4 +1,4 @@
-# kontax
+<img src="https://firebasestorage.googleapis.com/v0/b/colinstodd-com.appspot.com/o/images%2F2023%2Fkontax-light-blue.png?alt=media&token=c6efbeff-63d8-496f-851c-c918fb8294e2" alt="kontax" style="max-width:700px;">
 
 This is a Ruby on Rails application that is to be a social network or place for people with tramatic events or injuries to be able to go to and talk to others struggling with PTSD or similar.
 
